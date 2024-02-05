@@ -216,4 +216,8 @@ describe('Login', () => {
 });
 
 
+
+//re-uploaded to fix the tests that werent running the first time
+//still unable to run the tests using the run and debug button, only using the following:
 //mocha test/server.test.js
+
